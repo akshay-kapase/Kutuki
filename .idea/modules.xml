@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kutuki.iml" filepath="$PROJECT_DIR$/.idea/modules/Kutuki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kutuki.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kutuki.app.iml" />
+    </modules>
+  </component>
+</project>
